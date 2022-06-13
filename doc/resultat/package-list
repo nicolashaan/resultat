@@ -1,0 +1,40 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:fr.haan.resultat////PointingToDeclaration/resultat/fr.haan.resultat/index.html
+$dokka.location:fr.haan.resultat//fold/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[kotlin.Throwable,TypeParam(bounds=[kotlin.Any?])]#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/fold.html
+$dokka.location:fr.haan.resultat//getOrDefault/fr.haan.resultat.Resultat[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any?])])]#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/resultat/fr.haan.resultat/get-or-default.html
+$dokka.location:fr.haan.resultat//getOrElse/fr.haan.resultat.Resultat[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any?])])]#kotlin.Function1[kotlin.Throwable,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/get-or-else.html
+$dokka.location:fr.haan.resultat//getOrThrow/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/resultat/fr.haan.resultat/get-or-throw.html
+$dokka.location:fr.haan.resultat//map/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/map.html
+$dokka.location:fr.haan.resultat//mapCatching/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/map-catching.html
+$dokka.location:fr.haan.resultat//onFailure/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[kotlin.Throwable,kotlin.Unit]/PointingToDeclaration/resultat/fr.haan.resultat/on-failure.html
+$dokka.location:fr.haan.resultat//onLoading/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/resultat/fr.haan.resultat/on-loading.html
+$dokka.location:fr.haan.resultat//onSuccess/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/resultat/fr.haan.resultat/on-success.html
+$dokka.location:fr.haan.resultat//recover/fr.haan.resultat.Resultat[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any?])])]#kotlin.Boolean#kotlin.Function1[kotlin.Throwable,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/recover.html
+$dokka.location:fr.haan.resultat//recoverCatching/fr.haan.resultat.Resultat[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any?])])]#kotlin.Boolean#kotlin.Function1[kotlin.Throwable,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/recover-catching.html
+$dokka.location:fr.haan.resultat//runCatchingL/TypeParam(bounds=[kotlin.Any?])#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/resultat/fr.haan.resultat/run-catching-l.html
+$dokka.location:fr.haan.resultat//toResult/fr.haan.resultat.Resultat[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/resultat/fr.haan.resultat/to-result.html
+$dokka.location:fr.haan.resultat//toResultat/kotlin.Result[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/resultat/fr.haan.resultat/to-resultat.html
+$dokka.location:fr.haan.resultat/Resultat.Companion///PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-companion/index.html
+$dokka.location:fr.haan.resultat/Resultat.Companion/failure/#kotlin.Throwable/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-companion/failure.html
+$dokka.location:fr.haan.resultat/Resultat.Companion/loading/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-companion/loading.html
+$dokka.location:fr.haan.resultat/Resultat.Companion/success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-companion/success.html
+$dokka.location:fr.haan.resultat/Resultat.Failure///PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-failure/index.html
+$dokka.location:fr.haan.resultat/Resultat.Failure/Failure/#kotlin.Throwable/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-failure/-failure.html
+$dokka.location:fr.haan.resultat/Resultat.Failure/exception/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-failure/exception.html
+$dokka.location:fr.haan.resultat/Resultat.Failure/toString/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-failure/to-string.html
+$dokka.location:fr.haan.resultat/Resultat.Loading///PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-loading/index.html
+$dokka.location:fr.haan.resultat/Resultat.Loading/Loading/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-loading/-loading.html
+$dokka.location:fr.haan.resultat/Resultat.Loading/toString/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-loading/to-string.html
+$dokka.location:fr.haan.resultat/Resultat.Success///PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-success/index.html
+$dokka.location:fr.haan.resultat/Resultat.Success/Success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-success/-success.html
+$dokka.location:fr.haan.resultat/Resultat.Success/toString/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-success/to-string.html
+$dokka.location:fr.haan.resultat/Resultat.Success/value/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/-success/value.html
+$dokka.location:fr.haan.resultat/Resultat///PointingToDeclaration/resultat/fr.haan.resultat/-resultat/index.html
+$dokka.location:fr.haan.resultat/Resultat/exceptionOrNull/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/exception-or-null.html
+$dokka.location:fr.haan.resultat/Resultat/getOrNull/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/get-or-null.html
+$dokka.location:fr.haan.resultat/Resultat/isFailure/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/is-failure.html
+$dokka.location:fr.haan.resultat/Resultat/isLoading/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/is-loading.html
+$dokka.location:fr.haan.resultat/Resultat/isSuccess/#/PointingToDeclaration/resultat/fr.haan.resultat/-resultat/is-success.html
+fr.haan.resultat
+
