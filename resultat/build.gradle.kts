@@ -76,6 +76,6 @@ kotlin {
 }
 
 tasks.dokkaHtml.configure {
-    outputDirectory.set(rootDir.resolve("doc"))
+    outputDirectory.set(rootDir.resolve("docs"))
 }
 
