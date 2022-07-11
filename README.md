@@ -49,7 +49,7 @@ resultat
     }
 ```
 
-Similarly the [fold](docs/resultat/fr.haan.resultat/fold.html) method have a third `loading`
+Similarly the [fold](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/fold.html) method have a third `loading`
 parameter:
 
 ```kotlin
@@ -68,8 +68,8 @@ resultat.fold(
 ```
 
 ### Interoperability with Kotlin Result
-Convenient methods are provided to convert a [Kotlin Result](docs/resultat/fr.haan.resultat/to-result.html) to a Resultat and 
-[vice versa](docs/resultat/fr.haan.resultat/to-resultat.html).
+Convenient methods are provided to convert a [Kotlin Result](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/to-result.html) to a Resultat and 
+[vice versa](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/to-resultat.html).
 ```kotlin
 val resultat: Resultat<String> = Resultat.success("Hello")
 val result: Result<String> = resultat.toResult()
@@ -80,4 +80,4 @@ val newResultat: Resultat<String>? = result.ToResultat()
 
 ## API Reference
 
-See [API documentation](docs/resultat/fr.haan.resultat/-resultat/index.html)
+See [API documentation](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/-resultat/index.html)
