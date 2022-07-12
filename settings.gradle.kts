@@ -3,6 +3,14 @@ pluginManagement {
         gradlePluginPortal()
         mavenCentral()
     }
+    plugins  {
+        val kotlinVersion: String by settings
+        kotlin("multiplatform") version kotlinVersion
+        id("org.jlleitschuh.gradle.ktlint") version "10.3.0"
+        id("org.jetbrains.dokka") version kotlinVersion
+        kotlin("jvm") version kotlinVersion
+        id("maven-publish")
+    }
 }
 
 dependencyResolutionManagement {

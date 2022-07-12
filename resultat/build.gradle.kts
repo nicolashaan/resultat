@@ -1,7 +1,7 @@
 plugins {
-    kotlin("multiplatform") version "1.6.21"
-    id("org.jlleitschuh.gradle.ktlint") version "10.3.0"
-    id("org.jetbrains.dokka") version "1.6.21"
+    kotlin("multiplatform")
+    id("org.jlleitschuh.gradle.ktlint")
+    id("org.jetbrains.dokka")
     id("maven-publish")
     id("signing")
 }
