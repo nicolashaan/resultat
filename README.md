@@ -28,6 +28,10 @@ It also allows to rename it to whatever you want including *Result*, to ease mig
 
 ### Using Gradle
 
+```kotlin
+implementation("fr.haan.resultat:resultat:1.0.0-rc1")
+```
+
 ## Usage
 
 The usage of this class is the same as kotlin Result. You may take a look
