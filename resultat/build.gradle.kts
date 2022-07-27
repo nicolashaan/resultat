@@ -6,7 +6,7 @@ plugins {
     id("signing")
 }
 
-version = "1.0.0-rc1"
+version = "1.0.0"
 group = "fr.haan.resultat"
 
 repositories {

@@ -6,10 +6,11 @@
 
 </div>
 
+[![Maven Central](https://img.shields.io/maven-central/v/fr.haan.resultat/resultat)](https://repo1.maven.org/maven2/fr/haan/resultat/resultat/)
+
 ## What is Résultat?
 
-Résultat is a fork of Kotlin [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) with a loading
-state.
+Résultat is a fork of Kotlin [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) with a loading state.
 
 ## Why?
 
@@ -27,9 +28,10 @@ software.
 It also allows to rename it to whatever you want including *Result*, to ease migration and usage.
 
 ### Using Gradle
+Résultat is available on MavenCentral.
 
 ```kotlin
-implementation("fr.haan.resultat:resultat:1.0.0-rc1")
+implementation("fr.haan.resultat:resultat:1.0.0")
 ```
 
 ## Usage
@@ -53,7 +55,7 @@ resultat
     }
 ```
 
-Similarly the [fold](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/fold.html) method have a third `loading`
+Similarly, the [fold](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/fold.html) method have a third `loading`
 parameter:
 
 ```kotlin
