@@ -85,3 +85,6 @@ val newResultat: Resultat<String>? = result.ToResultat()
 ## API Reference
 
 See [API documentation](https://nicolashaan.github.io/resultat/resultat/fr.haan.resultat/-resultat/index.html)
+
+
+Made with ❤️ at [![BAM.tech](images/bam-logo.svg)](https://www.bam.tech)
